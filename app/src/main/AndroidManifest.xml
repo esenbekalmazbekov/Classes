@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Classes">
+        <activity android:name=".coordinatorlayout.medium.CoordinatorMediumActivity"></activity>
         <activity android:name=".surfaceview.arkhipov.SurfaceViewExampleActivity" />
         <activity android:name=".motionevent.MotionEventActivity" />
         <activity android:name=".MainActivity">
